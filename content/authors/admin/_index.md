@@ -12,9 +12,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+  - link: "#twitter"
+    icon_pack: far
+    icon: twitter
 education:
   courses: []
 email: ""
