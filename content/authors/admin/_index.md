@@ -12,7 +12,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - link: "#twitter"
+  - link: https://www.twitter.com/johnnylandmine
     icon_pack: far
     icon: twitter
 education:
