@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: "#contact"
   - link: https://www.twitter.com/johnnylandmine
-    icon_pack: ai
+    icon_pack: fab
     icon: twitter-square
 education:
   courses: []
