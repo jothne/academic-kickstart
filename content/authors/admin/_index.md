@@ -4,7 +4,7 @@ superuser: true
 authors:
   - admin
 title: John T. Neal
-role: Creative Japanese- to English Translator
+role: Creative Japanese-to-English Translator
 bio: ""
 interests:
   - ""
