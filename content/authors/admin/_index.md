@@ -4,9 +4,8 @@ superuser: true
 authors:
   - admin
 title: John T. Neal
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Creative Japanese- to English Translator
+bio: ""
 interests:
   - ""
 social:
@@ -22,7 +21,4 @@ email: ""
 user_groups:
   - ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a Japanese-to-English translator with over five years of experience in the Japanese entertainment industry. I'm passionate about Japanese media and subculture, from video games and manga to professional wrestling and underground music, and I love putting my language skills to use sharing that passion with the world.
