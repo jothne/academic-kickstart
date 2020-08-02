@@ -5,7 +5,7 @@ date: 2020-08-02T03:00:30.768Z
 summary: This is the summary for the top page.
 draft: false
 featured: false
-external_link: google.com
+external_link: projects/astral-chain
 links:
   - url: https://www.platinumgames.com/games/astral-chain
     name: PlatinumGames Inc's official ASTRAL CHAIN page
