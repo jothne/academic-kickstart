@@ -5,9 +5,9 @@ date: 2020-08-03T07:53:46.064Z
 draft: false
 featured: false
 tags:
-  - test2
-categories:
   - blogtest
+categories:
+  - blogtesto
 image:
   filename: featured
   focal_point: Smart
