@@ -9,7 +9,7 @@ tags:
   - ""
 categories:
   - Games
-external_link: www.google.com
+external_link:
 image:
   filename: featured
   focal_point: Smart
