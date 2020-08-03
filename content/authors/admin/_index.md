@@ -17,7 +17,7 @@ social:
     link: "#contact"
   - link: https://www.twitter.com/johnnylandmine
     icon_pack: fab
-    icon: twitter-square
+    icon: twitter
 education:
   courses: []
 email: ""
