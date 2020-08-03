@@ -30,7 +30,7 @@
   
   [[main]]
   name = "CV"  # A link title for your page.
-  url = "cv/index.md"  # The URL of your page.
+  url = "cv/"  # The URL of your page.
   weight = 70  # The position of your page in the menu.
 
 # Link to a PDF of your resume/CV from the menu.
