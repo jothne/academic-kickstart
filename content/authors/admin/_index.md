@@ -5,9 +5,12 @@ authors:
   - admin
 title: John T. Neal
 role: Creative Japanese-to-English Translator
+avatar_filename: profile_oni.jpg
 bio: ""
 interests:
-  - ""
+  - Professional Wrestling
+  - Tabletop RPGs
+  - Photography
 social:
   - icon: envelope
     icon_pack: fas
