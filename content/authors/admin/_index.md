@@ -5,7 +5,7 @@ authors:
   - admin
 title: John T. Neal
 role: Creative Japanese-to-English Translator
-avatar_filename: profile_oni.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Professional Wrestling
