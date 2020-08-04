@@ -28,5 +28,16 @@ date_format = "Jan 2006"
   date_start = "2019-08-30"
   date_end = ""
   description = """As localization lead, I translated all game text to English, assisted in English voiceover recording, and coordinated with FIGSR translators and localization debug teams."""
+  
+  
+[[item]]
+  organization = "PlatinumGames Inc"
+  organization_url = "https://www.platinumgames.com"
+  title = "NieR:Automata"
+  url = "https://www.platinumgames.com/games/astral-chain"
+  certificate_url = ""
+  date_start = "2017-02-27"
+  date_end = ""
+  description = """I translated item and quest descriptions and provided general localization support."""
 
 +++
