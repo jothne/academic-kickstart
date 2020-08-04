@@ -25,3 +25,5 @@ user_groups:
   - ""
 ---
 I am a Japanese-to-English translator with over five years of experience in the Japanese entertainment industry. I'm passionate about Japanese media and subculture, from video games and manga to professional wrestling and underground music, and I love putting my language skills to use sharing that passion with the world.
+
+This is a test. Will it let me update this file without using the netlify thing?
