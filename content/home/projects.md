@@ -26,8 +26,8 @@ subtitle = "Titles I've translated"
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Video Games"
+  #   tag = "Video Games"
   
   # [[content.filter_button]]
   #   name = "Other"
