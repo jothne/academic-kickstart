@@ -3,14 +3,14 @@ organizations: []
 superuser: true
 authors:
   - admin
-title: John T. Neal
-role: Creative Japanese-to-English Translator
+title: ジョン・ニール
+role: 日英翻訳者
 avatar_filename: avatar.jpg
 bio: ""
 interests:
-  - Professional Wrestling
-  - Tabletop RPGs
-  - Photography
+  - プロレス
+  - TRPG
+  - 写真撮影
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,6 +24,5 @@ email: ""
 user_groups:
   - ""
 ---
+これはテストなのです。
 I am a Japanese-to-English translator with over five years of experience in the Japanese entertainment industry. I'm passionate about Japanese media and subculture, from video games and manga to professional wrestling and underground music, and I love putting my language skills to use sharing that passion with the world.
-
-This is a test. Will it let me update this file without using the netlify thing?
