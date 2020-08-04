@@ -22,10 +22,10 @@ contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English
 [jp]
   languageCode = "jp"
   contentDir = "content/jp"
-  title = "Japanese website title..."
+  title = "jothne"
   [jp.params]
     description = "Site description in Japanese..."
   [[jp.menu.main]]
-    name = "Me"
+    name = "私について"
     url = "#about"
     weight = 1
