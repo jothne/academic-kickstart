@@ -14,5 +14,3 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
----
-This is the test project body.
