@@ -27,4 +27,4 @@ user_groups:
 I am a Japanese-to-English translator with over five years of experience in the Japanese entertainment industry. I'm passionate about Japanese media and subculture, from video games and manga to professional wrestling and underground music, and I love putting my language skills to use sharing that passion with the world.
 
 ## My websites:
-- [Head, meet Chair](https://www.headmeetchair.com/) is my pro wrestling translation blog.
+- [Head, meet Chair](https://headmeetchair.com/) is my pro wrestling translation blog.
