@@ -20,6 +20,8 @@ social:
     icon: twitter
 education:
   courses: []
+test:
+  - this is a test entry
 email: ""
 user_groups:
   - ""
